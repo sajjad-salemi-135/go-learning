@@ -1,4 +1,4 @@
-package main
+package puppy
 
 func bark() string {
 	return "woof"
